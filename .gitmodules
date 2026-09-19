@@ -1,0 +1,3 @@
+[submodule "my-angular-project"]
+	path = my-angular-project
+	url = https://github.com/RaghuPudi/AWSCodePipeline.git
